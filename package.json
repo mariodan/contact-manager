@@ -1,0 +1,25 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "Contact Manager backend API",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariodan/contact-manager.git"
+  },
+  "keywords": [
+    "contact",
+    "manager",
+    "backend",
+    "api"
+  ],
+  "author": "Marian Danscoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariodan/contact-manager/issues"
+  },
+  "homepage": "https://github.com/mariodan/contact-manager#readme"
+}
