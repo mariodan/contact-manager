@@ -4,7 +4,8 @@
   "description": "Contact Manager backend API",
   "main": "app.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node app"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/mariodan/contact-manager/issues"
   },
-  "homepage": "https://github.com/mariodan/contact-manager#readme"
+  "homepage": "https://github.com/mariodan/contact-manager#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.0",
+    "lodash": "^4.17.4",
+    "winston": "^2.3.0"
+  }
 }

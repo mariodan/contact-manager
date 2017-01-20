@@ -20,6 +20,8 @@
 
   },
   "globals": {
-
+    "winston": true,
+    "HTTP": true,
+    "errMessage": true
   }
 }
